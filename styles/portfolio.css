@@ -1,0 +1,12 @@
+body {
+    background-color: yellow;
+}
+h1 {
+    font-weight: bold;
+    font-family: "Rubik", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+p {
+    font-size:medium;
+}
