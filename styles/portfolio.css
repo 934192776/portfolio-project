@@ -1,12 +1,11 @@
-body {
-    background-color: yellow;
-}
 h1 {
+    color: black;
+    font-family: "Playfair Display", serif;
     font-weight: bold;
-    font-family: "Rubik", serif;
-    font-optical-sizing: auto;
-    font-style: normal;
-}
-p {
-    font-size:medium;
-}
+  }
+  
+  p {
+    font-family: "Poppins", sans-serif;
+    font-weight: normal;
+  }
+  
